@@ -1,5 +1,5 @@
 h1{
-font-size: 3rem;
+font-size: 3em;
 color: blue;
 }
 
@@ -8,7 +8,7 @@ font-size: 150%;
 }
 
 img{
-width: 75%;}
+width: 75vh;}
 
 a{
 font-size: 120%;}
